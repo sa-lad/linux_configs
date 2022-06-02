@@ -2,7 +2,7 @@
 
 Setup:
 ```
-git clone https://github.com/sa-lad/configs
+git clone https://github.com/sa-lad/linux_configs
 
 cd configs && ./setup.sh
 ```
